@@ -28,12 +28,15 @@ apresentação
 
 ## INSTALANDO AS DEPENDÊNCIAS:
 
+npm install
 
 npm install express
 
 npm i axios
 
 npm i nodemon
+
+npm i cors
 
 ## EDIÇÕES:
 
