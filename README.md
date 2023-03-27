@@ -4,28 +4,26 @@
 # 🥇 OBJETIVOS
 ## O PROJETO DEVERÁ:
 
+O grupo deve decidir qual será o MVP utilizado nessa fase. O site
+precisa ter - página inicial, sobre (com conteúdo editável), funcionalidades (com
+conteúdo cadastrável e editável) e uma tela de contato. O conteúdo das páginas sobre e
+funcionalidades deve ser consultado de uma API. Para realizar a edição e cadastro
+serão criadas rotas /admin.
 
-⇨ Utilizar o padrão MVC;
 
-⇨ Utilizar os verbos HTTP seguindo o padrão REST;
-
-⇨ Implementar todas as operações de CRUD;
-
-⇨ Utilizar o padrão de projeto (design pattern) DAO para abstração de transações no banco, com Promises;
 
 ⇨ Utilizar o README.md do repositório para documentação, contendo informações como:
 
-◼ Como instalar as dependências do projeto;
 
-◼ Como executar o projeto;
-
-◼ Quais são as rotas possíveis;
-
-◼ Quaisquer outros pontos que você achar necessários;
-
-⇨ Utilização de async/await para operações no banco (DAO)
 
 ⇨ Ter o código fonte hospedado em um repositório no Github.
+
+1. Front-end foi desenvolvido com React
+2. Back-end foi desenvolvido com Node/Express
+3. Todos os requisitos solicitados foram apresentados
+4. Integração entre front e back-end funcionou durante a
+apresentação
+5. Foram apresentados recursos extras além dos solicitados
 
 
 ## INSTALANDO AS DEPENDÊNCIAS:
