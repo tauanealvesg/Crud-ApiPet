@@ -1,6 +1,10 @@
 # <h1 align="center">CRUD-API</h1>
 
 
+![ipet1](https://user-images.githubusercontent.com/107886724/228225556-0df9c8bc-8da4-4a29-b645-174ad4446038.PNG)
+
+
+
 # 🥇 OBJETIVOS
 ## O PROJETO DEVERÁ:
 
@@ -48,7 +52,8 @@ editar packed.json "scripts" :
   
   ## EXECUTANDO O PROJETO:
   
-  Cd...nome da pasta
-  npm start...
+  Cd nome da pasta
+  
+  npm start
   
   
