@@ -8,4 +8,8 @@
     margin-right: auto;
     margin-left:auto ;
     background-color: #008eb7;
+    
+}
+.login-form-title{
+justify-content: center;
 }
