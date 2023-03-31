@@ -2,36 +2,35 @@ import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import './Login.css'
 
-
-function SystemLogin() {
+function SistemaLogin() {
   return (
 
-    <div className='login'>
-    
-      
+ <div className='login'>
+     
+
     <Form>
-    <div className="login-form-title">Login</div>
-      <Form.Group className="mb-3" controlId="formBasicEmail">
+    <span className="login-form-title">Login</span>
+      <Form.Group className="mb-3" controlId="formBasicE-mail">
         <Form.Label>Endereço de E-mail</Form.Label>
-        <Form.Control type="email" placeholder="E-mail" />
+        <Form.Control type="e-mail" placeholder="Insira e-mail" />
         <Form.Text className="text-muted">
-        Nunca compartilharemos seu e-mail com mais ninguém.
+          Nunca compartilharemos seu e-mail com mais ninguém.
         </Form.Text>
       </Form.Group>
 
-      <Form.Group className="mb-3" controlId="formBasicPassword">
+      <Form.Group className="mb-3" controlId="formBasicSenha">
         <Form.Label>Senha</Form.Label>
         <Form.Control type="senha" placeholder="Senha" />
       </Form.Group>
       <Form.Group className="mb-3" controlId="formBasicCheckbox">
         <Form.Check type="checkbox" label="Lembre-me" />
       </Form.Group>
-      <Button variant="primary" type="submit">
+      <Button variant="primary" type="entrar">
         Entrar
       </Button>
     </Form>
-    </div>
+</div>
   );
 }
 
-export default SystemLogin;
+export default SistemaLogin;
